@@ -1,5 +1,5 @@
-# Open your terminal/command prompt
-cd path/to/your-project-folder
+
+cd path/to/oose project
 
 # Add the file
 git add circuit_diagram.png
