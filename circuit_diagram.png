@@ -1,0 +1,11 @@
+# Open your terminal/command prompt
+cd path/to/your-project-folder
+
+# Add the file
+git add circuit_diagram.png
+
+# Commit the change
+git commit -m "Added circuit diagram"
+
+# Push to GitHub
+git push origin main
