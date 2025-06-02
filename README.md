@@ -15,7 +15,18 @@ This project monitors and controls water levels in tanks using ultrasonic sensor
 - Overflow and dry-run protection
 - Energy-efficient and low-cost design
 
-## Team Members
+## UML Diagrams
+
+All UML diagrams for this project — including Use Case, Class, Activity, Sequence, State Chart, and Architecture diagrams — are available in the document below:
+diagrams.docx
+This document includes visual representations of:
+- System structure and behavior
+- Component interaction
+- Workflow logic
+- Hardware architecture
+
+
+ ## Team Members
 - Ragavi M
 - B Sai Swaroop
 - Mythri J
